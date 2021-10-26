@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 600px;
+    background-color:rgb(155, 152, 152);
+    padding: 20px;
+}
+.h1{
+    color: rgb(81, 129, 8);
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+p{
+    margin-left: 5px;
+    color: #000;
+    font-size: 16px;
+    line-height: 2.5;
+    font-family: 'Arial';
+    padding: 20px;
+}
+.box1{
+    width: 30.3%;
+    float: left;
+    height: 400px;
+    border: 2px solid  rgb(81, 129, 8);
+    border-radius: 30px;
+    margin-right: 5px;
+    margin-left: 10px;
+    margin-top: 5px;
+    background-color: honeydew;
+}
+.box2{
+    width: 33.3%;
+    float: left;
+    height: 400px;
+    border: 2px solid  rgb(81, 129, 8);
+    border-radius: 30px;
+    margin-right: 5px;
+    margin-left: 10px;
+    margin-top: 5px;
+    background-color: honeydew;
+}
+.box3{ 
+    width: 30.3%;
+    float: left;
+    height: 400px;
+    border: 2px solid  rgb(81, 129, 8);
+    border-radius: 30px;
+    margin-right: 5px;
+    margin-left: 10px;
+    margin-top: 5px;
+    background-color: honeydew;
+}
+.button{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    background-color:rgb(81, 129, 8) ;
+    color:#FFf;
+    right: 5%;
+    margin-bottom: 30px;
+    margin-left: 250px;
+    border-radius: 5px;
+}
+.form{
+    text-align: center;
+}
+.input1{
+    border: 2px solid rgb(81, 129, 8);
+    width: 500px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 40px;
+
+}
+.input2{
+    border: 2px solid rgb(81, 129, 8);
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px
+}
+.clear{
+    clear: both;
+}
+  
